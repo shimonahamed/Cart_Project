@@ -1,0 +1,28 @@
+1. Collect Back End Documentation
+https://documenter.getpostman.com/view/9518923/2s946k6W8p
+
+2. Discover the back-end data flow
+
+
+3. Create New Stand Alon Front End Project
+
+
+4. Install Front-End Packages
+    - Axios
+    - React Hot Toast
+    - Bootstrap
+    - React-Bootstrap
+    - Bootstrap-icons
+    - React Router DOM
+
+5. Project Structure
+
+6. Initial Route
+
+7. Master Layout
+
+8. 404 Set
+
+9. Conditional Protected Route
+
+10. Dynamic Product List
